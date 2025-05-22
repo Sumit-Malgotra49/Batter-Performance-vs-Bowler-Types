@@ -32,4 +32,4 @@ Best/worst performing bowler types against top batters
 
 Strategic player matchups for team composition
 
-Visual heatmaps/charts (if integrated) to enhance interpretability
+
